@@ -1,2 +1,2 @@
-spring:
-  profile: aaa
+config:
+  test: aaa
